@@ -1,1 +1,0 @@
-Upload index.html, style.css and assets/ to GitHub. Replace the empty image placeholders in assets/ with the screenshots you provided, keeping the filenames. Discord invite is included in the site.
